@@ -1,0 +1,21 @@
+{
+    "name": "disney-magic-kingdoms-hack/disney-magic-kingdoms-hack-mod-apk-get-unlimited-gems",
+    "description": "Disney Magic Kingdoms Hack Mod APK Get Unlimited Gems Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Disney Magic Kingdoms",
+            "homepage": "http://disney-magic-kingdoms.astuces.cf/en.html",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
